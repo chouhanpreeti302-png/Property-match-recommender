@@ -126,8 +126,10 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run streamlit_app.py
+```
+## 🖥️ Windows
 
-
+```bash
 # Clone the repository
 git clone https://github.com/chouhanpreeti302-png/Property-match-recommender.git
 cd Property-match-recommender
