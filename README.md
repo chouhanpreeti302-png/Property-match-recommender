@@ -94,8 +94,6 @@ The Streamlit application provides:
 ![Property Match Recommender UI](assets/explainability.png)
 ---
 
-## 📁 Repository Structure
-
 
 ---
 
