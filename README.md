@@ -91,7 +91,7 @@ The Streamlit application provides:
 
 ### UI Preview
 ![Property Match Recommender UI](assets/ui_screenshot.png)
-
+![Property Match Recommender UI](assets/explainability.png)
 ---
 
 ## 📁 Repository Structure
